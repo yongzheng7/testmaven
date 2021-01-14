@@ -1,0 +1,4 @@
+include ':plugin'
+include ':module1'
+include ':app'
+rootProject.name = "startMaven"
